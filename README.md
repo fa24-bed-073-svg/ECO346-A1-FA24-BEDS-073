@@ -1,3 +1,19 @@
+## Question 2: The Distribution
+
+### Reported Statistics
+
+- Number of earners: 3,768
+- Weighted median annual earnings: Rs 240,000
+- Unweighted median annual earnings: Rs 240,000
+- Weighted 10th percentile (p10): Rs 96,000
+- Weighted 90th percentile (p90): Rs 660,000
+- p90/p10 ratio: 6.88
+- Number of earners excluded from the histogram range: 25
+
+### Interpretation
+
+The earnings distribution shows substantial inequality: the weighted 90th percentile is almost seven times the weighted 10th percentile. The weighted and unweighted medians are both Rs 240,000, suggesting that weighting does not change the median for this sample under the specified quantile definition. The histogram uses a logarithmic earnings scale to display a wide range of earnings values more clearly.
+
 ## Question 3: Earnings and Age
 
 ### Weighted Mean Annual Earnings by Age Group
