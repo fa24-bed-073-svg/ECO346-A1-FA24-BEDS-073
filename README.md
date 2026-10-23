@@ -1,4 +1,24 @@
-### Explanation of the Redesign
+## Question 3: Earnings and Age
+
+### Weighted Mean Annual Earnings by Age Group
+
+| Age band | Number of earners | Weighted mean earnings (Rs) |
+|---|---:|---:|
+| 15–19 | 229 | 145,444 |
+| 20–24 | 449 | 216,585 |
+| 25–29 | 499 | 320,776 |
+| 30–34 | 518 | 369,580 |
+| 35–39 | 498 | 354,031 |
+| 40–44 | 435 | 498,966 |
+| 45–49 | 427 | 465,073 |
+| 50–54 | 363 | 521,949 |
+| 55–59 | 220 | 523,751 |
+| 60–64 | 130 | 453,067 |
+
+**Key findings:** The weighted mean annual earnings for the 25–29 age band are Rs 320,776, while those for the 45–49 age band are Rs 465,073. The highest weighted mean is observed in the 55–59 age band, at Rs 523,751.
+
+**Interpretation:** Average earnings generally increase across older age groups, although the pattern is not consistently upward. Earnings may reflect differences in work experience, occupation, hours worked, and other factors. The figure describes an association between age and earnings; it cannot establish that age itself causes higher earnings.
+### Question 4: Explanation of the Redesign
 
 The redesigned figure improves readability and makes the relationship between age and annual earnings easier to interpret. First, the default scatter plot is replaced with weighted mean earnings for five-year age groups, reducing overplotting and highlighting the overall pattern. This follows the principle of choosing visual encodings that communicate the intended message clearly. Second, a logarithmic y-axis makes earnings across different levels easier to compare, preventing high values from dominating the display. Third, connecting the age-group means with a line emphasizes the trend across age groups. Finally, clearer axis labels and a descriptive title improve communication and interpretation.
 
